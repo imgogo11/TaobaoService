@@ -1,0 +1,22 @@
+ # 字节码和缓存
+__pycache__/
+
+# 数据集文件夹
+E-commerce dataset/
+
+# 配置文件 (通常包含敏感信息)
+config.py
+
+# 也可以加上其他常见的忽略项
+# 操作系统文件
+.DS_Store
+Thumbs.db
+
+# IDE/编辑器配置
+.vscode/
+.idea/
+
+# 虚拟环境
+.venv/
+venv/
+env/

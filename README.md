@@ -15,3 +15,6 @@ python main.py
 
 
 通过csv文件模拟数据库
+
+## E-commerce dataset下载地址
+https://drive.google.com/file/d/154J-neBo20ABtSmJDvm7DK0eTuieAuvw/view
