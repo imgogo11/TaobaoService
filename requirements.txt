@@ -1,0 +1,13 @@
+# requirements.txt
+
+langchain
+langchain-core
+langchain-community
+langchain-deepseek
+langchain-openai
+faiss-cpu
+pandas
+tiktoken
+streamlit
+sentence-transformers
+torch
